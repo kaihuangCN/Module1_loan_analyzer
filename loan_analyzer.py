@@ -151,7 +151,6 @@ print(inexpensive_loans)
 
 # # @TODO: Use the csv library and `csv.writer` to write the header row
 # # and each row of `loan.values()` from the `inexpensive_loans` list.
-# # YOUR CODE HERE!
 import csv
 from pathlib import Path
 
